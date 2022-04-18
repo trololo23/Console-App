@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/arbuz/cpp-base-hse-2022/projects/image_processor/Filter/filtr_interface.h
+../Image/image.h
+/home/arbuz/cpp-base-hse-2022/projects/image_processor/Image/image.h
+
+/home/arbuz/cpp-base-hse-2022/projects/image_processor/Image/image.h
+fstream
+-
+vector
+-
+
+/home/arbuz/cpp-base-hse-2022/projects/image_processor/Random/random_filter.cpp
+random_filter.h
+/home/arbuz/cpp-base-hse-2022/projects/image_processor/Random/random_filter.h
+
+/home/arbuz/cpp-base-hse-2022/projects/image_processor/Random/random_filter.h
+random
+-
+../Filter/filtr_interface.h
+/home/arbuz/cpp-base-hse-2022/projects/image_processor/Filter/filtr_interface.h
+
