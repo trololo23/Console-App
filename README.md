@@ -13,4 +13,4 @@ The main advantages of this project:
 3) Parser coverage with tests
 
 # Project Improvement Plans
-Add the ability to work with other image formats, with the help of other libraries, speed up the work of some heavy filters.
+Add the ability to work with other image formats, with the help of other libraries, speed up the work of some heavy filters, improve test coverage.
